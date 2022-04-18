@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunday
 - 👀 I’m interested in Programmation
-- 🌱 I’m currently PHP/Laravel, C/C++, Python advanced Developer
+- 🌱 I’m currently PHP/Laravel and VueJs, C/C++
 - 💞️ I’m looking to collaborate on freelance or part time projects
 - 📫 How to reach me ? Email:kodonoumahuwanu@gmail.com  Whatsapp: +229 60905269
 
